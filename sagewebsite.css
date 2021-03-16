@@ -1,0 +1,97 @@
+.zion {
+    width: 50%;
+}
+.tide{
+   width: 40%;
+}
+body {
+   background-color: #dddddd;
+   margin: 0;
+   padding: 0;
+}
+
+#wrap {
+   width: 70%
+   margin: 0 auto;
+   background-color: white;
+}
+
+header img {
+   width: 100;
+}
+
+header {
+   padding: 20px;
+   background-color:azure;
+}
+
+nav  {
+   background-color: #0b3d91;
+   padding: 20px;
+   text-align: center;
+}
+
+nav a {
+   color: white;
+   font-family: Verdana,sans-serif;
+   padding: 20px 30px;
+   text-decoration: none;
+   font-size: 120%;
+}
+
+nav a:hover {
+   background-color:azure;
+   color:navy;
+}
+
+nav li {
+   display: inline;
+}
+
+nav ul {
+   margin: 0;
+   padding: 0;
+}
+
+section {
+   padding: 1% 4%;
+   overflow: auto;
+}
+
+section h1, section h2 {
+   color:#0b3d91;
+   font-family: verdana;
+   font-size: 180%
+}
+
+section h2 {
+   color: #ec3d0f;
+   font-size: 140%; 
+}
+
+footer {
+   background-color: #0b3d91;
+   color: white;
+   padding: 15px;
+   text-align: center;
+
+}
+
+.tide {
+   width: 35%;
+   float:right;
+}
+
+.button {
+   background-color:#0b3d91;
+   color: blue;
+   text-decoration: none;
+   padding: 15px;
+   font-size: 20px;
+   display: inline-block;
+   border-radius: 10px;
+}
+
+a.button:hover {
+   background-color:azure;
+}
